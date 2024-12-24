@@ -16,7 +16,7 @@ This repository is created as my first step into the GitHub ecosystem. It will p
 
 If you have any questions, feel free to reach out:
 
-- Email: your-email@example.com
+- Email: waleedmushtaqsatti682@gmail.com
 - GitHub: [wms682](https://github.com/wms682)
 
 
